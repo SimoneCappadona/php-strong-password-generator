@@ -34,7 +34,7 @@ include './php/function.php'
             <div class="d-flex flex-column align-items-center">
                 <div class="d-flex gap-5 align-items-center mt-3">
                     <p>
-                        Lunghezza password:
+                        Numero caratteri password:
                     </p>
                     <!-- Get method -->
                     <form method="GET" class="d-flex">
